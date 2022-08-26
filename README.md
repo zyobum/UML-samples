@@ -1,6 +1,5 @@
 ![Sequence Diagram](http://www.plantuml.com/plantuml/proxy?cache=no&src=https://github.com/zyobum/UML-samples/raw/main/README.md) 
 ```plantuml
-@startuml
 skinparam DefaultFontSize 20
 skinparam sequenceArrowThickness 2
 title SE update
@@ -47,5 +46,4 @@ a->s: [82] recoverRegisterData
 end opt
 end
 note over u,s: Setup accounts
-@enduml
 ```
