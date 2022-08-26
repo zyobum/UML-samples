@@ -1,4 +1,3 @@
-![Sequence Diagram](http://www.plantuml.com/plantuml/proxy?cache=no&src=https://github.com/zyobum/UML-samples/raw/main/README.md) 
 ```plantuml
 skinparam DefaultFontSize 20
 skinparam sequenceArrowThickness 2
@@ -47,3 +46,4 @@ end opt
 end
 note over u,s: Setup accounts
 ```
+![Sequence Diagram](http://www.plantuml.com/plantuml/proxy?cache=no&src=https://github.com/zyobum/UML-samples/raw/main/README.md) 
